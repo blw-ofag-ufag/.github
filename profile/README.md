@@ -1,4 +1,5 @@
-<img align="left" width="320" height="103" src="resources/logo.svg">
+<img align="left" width="320" height="103" src="https://raw.githubusercontent.com/blw-ofag-ufag/.github/master/profile/resources/logo.svg">
+
 
 # Welcome to the official GitHub page of the Federal Office for Agriculture
 
