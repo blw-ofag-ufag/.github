@@ -13,4 +13,4 @@ The general conditions created by the federal government must allow the agricult
 A multifunctional agricultural and food industry is important. We are acting now for the future.
 
 > [!NOTE]
-> This GitHub page is used to make individual projects publically accessible. Any information you find here may be outdated. For definitive questions about the Federal Office for Agriculture and its applications and systems, please visit [our official website](https://www.blw.admin.ch/blw/en/home.html).
+> This GitHub page is used to make individual projects publicly accessible. Any information you find here may be outdated. For definitive questions about the Federal Office for Agriculture and its applications and systems, please visit [our official website](https://www.blw.admin.ch/blw/en/home.html).
