@@ -4,7 +4,7 @@
 
 # Welcome to the GitHub page of the Federal Office for Agriculture
 
-The Federal Office for Agriculture (FOAG) is the Confederation's competence centre for all core issues relating to the agricultural sector.
+The Federal Office for Agriculture (FOAG) is the Confederation's competence center for all aspects relating to the agricultural sector.
 
 The Federal Office for Agriculture is committed to ensuring sustainable agricultural production in order to contribute to food security in Switzerland. In doing so, we take into account the various interests, develop the legal basis for a progressive and effective agricultural policy and implement this policy efficiently.
 
