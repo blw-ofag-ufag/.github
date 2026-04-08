@@ -14,4 +14,4 @@ A multifunctional agricultural and food industry is important. We are acting now
 
 > [!NOTE]
 > This GitHub page is used to make individual projects publicly accessible. Any information you find here may be outdated. For definitive questions about the Federal Office for Agriculture and its applications and systems, please visit [our official website](https://www.blw.admin.ch/blw/en/home.html).<br>
-> In case of questions or if you require additional access rights, please contact us: kompetenzzentrumdigitaletransformation@blw.admin.ch.
+> In case of questions or if you require additional access rights, please contact us: [agridata.ch@blw.admin.ch](mailto:agridata.ch@blw.admin.ch).
